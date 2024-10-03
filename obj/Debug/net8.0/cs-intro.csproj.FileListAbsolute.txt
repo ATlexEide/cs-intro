@@ -1,0 +1,14 @@
+/Users/alex/kodehode/backend/cs-intro/bin/Debug/net8.0/cs-intro
+/Users/alex/kodehode/backend/cs-intro/bin/Debug/net8.0/cs-intro.deps.json
+/Users/alex/kodehode/backend/cs-intro/bin/Debug/net8.0/cs-intro.runtimeconfig.json
+/Users/alex/kodehode/backend/cs-intro/bin/Debug/net8.0/cs-intro.dll
+/Users/alex/kodehode/backend/cs-intro/bin/Debug/net8.0/cs-intro.pdb
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.AssemblyInfoInputs.cache
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.AssemblyInfo.cs
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.csproj.CoreCompileInputs.cache
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.dll
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/refint/cs-intro.dll
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.pdb
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.genruntimeconfig.cache
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/ref/cs-intro.dll
