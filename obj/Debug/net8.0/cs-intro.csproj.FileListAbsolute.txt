@@ -12,3 +12,4 @@
 /Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.pdb
 /Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.genruntimeconfig.cache
 /Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/ref/cs-intro.dll
+/Users/alex/kodehode/backend/cs-intro/obj/Debug/net8.0/cs-intro.sourcelink.json

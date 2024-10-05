@@ -21,7 +21,7 @@ char myChar = 'A';
 // Lag et Array av datatypen integer og skriv ut verdiene med en vanlig for-løkke
 int[] myIntArray = [1,2,3,4,5,6,7,8,9,10];
 for(int i = 0; i < myIntArray.Length; i++){
-	Console.WriteLine(i);
+	Console.WriteLine(myIntArray[i]);
 };
 // Lag et Array av datatypen string og skriv ut verdiene med en foreach-løkke
 string[] myStringArray = ["Hello","World","from","a","foreach","loop"];
